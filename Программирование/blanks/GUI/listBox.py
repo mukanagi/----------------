@@ -47,4 +47,6 @@ delete_button.pack()
 submit_button = Button(window, text="Submit Your order", font=("Open Sans", 20), command=submit)
 submit_button.pack()
 
+print("hello")
+
 window.mainloop()
